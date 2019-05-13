@@ -1,0 +1,1 @@
+the input.txt and encrypted.txt and decrypted.txt are for the DES.java file 
